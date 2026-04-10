@@ -245,6 +245,8 @@ ellipse(365, 300,15, 15);//tamaño y coordenadas de la elipse
 stroke(0);//color del contorno
 strokeWeight(3);//tamaño del grosor del contorno
 ellipse(390, 375,25, 25);//tamaño y coordenadas de la elipse
-  
-  
+
 }
+
+# Link p5.js editable 
+https://editor.p5js.org/benjaminavila2/sketches/-8ABEF4Yv
