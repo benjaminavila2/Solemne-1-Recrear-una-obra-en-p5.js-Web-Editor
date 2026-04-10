@@ -16,4 +16,5 @@ Una de las principales dificultades del proyecto fue la recreación de los arcos
 En conclusión, el proyecto no solo implicó la reproducción de una composición abstracta, sino también la comprensión de un lenguaje visual específico y su traducción a un entorno digital. La influencia de Kazimir Malevich se evidencia en la simplificación formal y en la búsqueda de una composición equilibrada a partir de elementos mínimos, mientras que el uso de herramientas digitales permitió explorar nuevas formas de construir y analizar la geometría en el espacio.
 
 # Dibujo original inspirado en Kazimir Malévich
+![IMG_2634](https://github.com/user-attachments/assets/bebe9d6c-d4d3-4b95-bdd3-7821beeecc4c)
 
