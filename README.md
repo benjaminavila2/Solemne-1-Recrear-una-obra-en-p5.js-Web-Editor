@@ -18,3 +18,6 @@ En conclusión, el proyecto no solo implicó la reproducción de una composició
 # Dibujo original inspirado en Kazimir Malévich
 ![IMG_2634](https://github.com/user-attachments/assets/bebe9d6c-d4d3-4b95-bdd3-7821beeecc4c)
 
+# Work in progress
+![IMG_2709](https://github.com/user-attachments/assets/71332f7e-a6a3-4be2-a49f-64436c7c3f2c)
+
