@@ -1,4 +1,4 @@
-# Solemne-1-Recrear-una-obra-en-p5.js-Web-Editor
+# Solemne 1: Recrear una obra en p5.js Web-Editor
 ## Indicaciones de la solemne
 * Deben recrear con exactitud el dibujo que hicieron en papel milimetrado en un Sketch de P5.js. de 500 X 500 PIXELES.
 * Referente elegido: Kazimir Malévich (1879-1935)
@@ -21,3 +21,5 @@ En conclusión, el proyecto no solo implicó la reproducción de una composició
 # Work in progress
 ![IMG_2709](https://github.com/user-attachments/assets/71332f7e-a6a3-4be2-a49f-64436c7c3f2c)
 
+# Resultado en p5.js Web Editor
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/6184dc17-4b7e-47f1-b262-2d17eb2f9910" />
